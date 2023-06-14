@@ -1,7 +1,7 @@
 # GlobalPointer
 参考了 [GlobalPointer_torch](https://github.com/xhw205/GlobalPointer_torch)，进一步实现：
 
-1. 集成EffiGlobalPointer，GlobalPointer
+1. 集成EffiGlobalPointer，GlobalPointer, 使用--gp_type  epg/gp选择EffiGlobalPointer，GlobalPointer模型
 2. Apex 混合训练
 3. 对抗训练 fgm, awp等
 4. EMA等平均移动权重策略
