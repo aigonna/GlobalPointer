@@ -1,5 +1,5 @@
 # GlobalPointer
-参考了 [[GlobalPointer_torch](https://github.com/xhw205/GlobalPointer_torch)](https://github.com/xhw205/GlobalPointer_torch)，进一步实现：
+参考了 [GlobalPointer_torch](https://github.com/xhw205/GlobalPointer_torch)]，进一步实现：
 
 1. 集成EffiGlobalPointer，GlobalPointer
 2. Apex 混合训练
